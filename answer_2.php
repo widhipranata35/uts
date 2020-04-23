@@ -1,6 +1,6 @@
 <?php
-$nama="wahyu pranata";
-$umur =21;
+$nama="widhi pranata";
+$umur =23;
 
 echo "nama saya adalah $nama";
 echo "<br>";
